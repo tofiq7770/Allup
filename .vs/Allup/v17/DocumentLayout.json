@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\Allup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C3220E-8C02-4387-AD0D-0B7863D634A3}|Allup\\Allup.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\allup\\allup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7C3220E-8C02-4387-AD0D-0B7863D634A3}|Allup\\Allup.csproj|solutionrelative:allup\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C3220E-8C02-4387-AD0D-0B7863D634A3}|Allup\\Allup.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\allup\\allup\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C3220E-8C02-4387-AD0D-0B7863D634A3}|Allup\\Allup.csproj|solutionrelative:allup\\viewmodel\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7C3220E-8C02-4387-AD0D-0B7863D634A3}|Allup\\Allup.csproj|c:\\users\\asus\\onedrive\\desktop\\slider\\allup\\allup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7C3220E-8C02-4387-AD0D-0B7863D634A3}|Allup\\Allup.csproj|solutionrelative:allup\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\Allup\\Allup\\ViewModel\\HomeVM.cs",
+              "RelativeDocumentMoniker": "Allup\\ViewModel\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\Allup\\Allup\\ViewModel\\HomeVM.cs",
+              "RelativeToolTip": "Allup\\ViewModel\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:38:35.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\Allup\\Allup\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Allup\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\Allup\\Allup\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Allup\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAmwFQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T07:37:43.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\Allup\\Allup\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Allup\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Desktop\\slider\\Allup\\Allup\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Allup\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:33:15.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
